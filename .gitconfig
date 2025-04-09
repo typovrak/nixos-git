@@ -1,0 +1,12 @@
+[user]
+name = typovrak
+email = typovrak@gmail.com
+
+[init]
+defaultBranch = main
+
+[pull]
+rebase = true
+
+[push]
+autoSetupRemote = true
