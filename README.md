@@ -130,11 +130,10 @@ And more like the default branch to ```main```, no need to push with the flag ``
 
 ## 📚 Learn more
 
-- 📘 [Git - Book (official documentation)](https://git-scm.com/book/en/v2) — A complete guide to using Git effectively, from beginner to advanced usage.
-- ⚙️ [Git configuration reference](https://git-scm.com/docs/git-config) — Full list of all config options available in `.gitconfig`.
-- 🧩 [Git aliases inspiration](https://github.com/GitAlias/gitalias) — Large curated list of useful and time-saving Git aliases.
-- 🛠️ [Setting sensible Git defaults](https://dev.to/somedood/sensible-git-config-defaults-2mj0) — A good write-up on what settings make Git more predictable and productive.
-- 🎓 [GitHub Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf) — Quick printable PDF reference from GitHub.
+- 📘 [Git book](https://git-scm.com/book/en/v2) : A complete guide to using Git effectively, from beginner to advanced usage.
+- ⚙️ [Git configuration reference](https://git-scm.com/docs/git-config) : Full list of all config options available in ```.gitconfig```.
+- 🧩 [Git aliases inspiration](https://github.com/GitAlias/gitalias) : Large curated list of useful and time saving Git aliases.
+- 🎓 [GitHub Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf) : Quick printable PDF reference from GitHub.
 
 ## 🌐 Discover my NixOS system portal
 
