@@ -20,3 +20,9 @@ format = ssh
 
 [gpg "ssh"]
 allowedSignersFile = ~/.ssh/allowed_signers
+
+[includeIf "gitdir:~/projects/freelancing/comet-data"]
+path = ~/projects/freelancing/comet-data/.gitconfig
+
+[includeIf "gitdir:~/projects/freelancing/comet-data/.git"]
+path = ~/projects/freelancing/comet-data/.gitconfig
